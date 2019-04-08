@@ -1,4 +1,5 @@
 # vue-course-2019
+![](docs/screenshot.png)
 
 ## Project setup
 ```
